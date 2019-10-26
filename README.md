@@ -4,7 +4,7 @@
 
 ## Table of Contents
 
-* [About CarVision](https://github.com/dnorton94/CarVision/edit/master/README.md/CarVision#About-CarVision)
+* About CarVision
 * Usage
 * Contributing
 * Author
