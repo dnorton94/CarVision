@@ -1,0 +1,25 @@
+{
+  "name": "carvision",
+  "version": "1.0.0",
+  "description": "Real-time vehicle fraud detection system",
+  "main": "index.js",
+  "scripts": {
+    "test": "jshint index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnorton94/CarVision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnorton94/CarVision/issues"
+  },
+  "homepage": "https://github.com/dnorton94/CarVision#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  }
+}
