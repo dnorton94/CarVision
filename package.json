@@ -1,23 +1,15 @@
 {
-  "name": "carvision",
-  "version": "1.0.0",
-  "description": "",
-  "main": "hello.js",
+  "name": "CarVision",
+  "description": "Real-time vehicle detection system",
+  "author": "Dominic Norton",
+  "version": "0.0.1",
+  "devDependencies": {
+    "jshint": "^2.10.2"
+  },
   "scripts": {
     "test": "jshint hello.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dnorton94/CarVision.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/dnorton94/CarVision/issues"
-  },
-  "homepage": "https://github.com/dnorton94/CarVision#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "jshint": "^2.10.2"
+    "save-dev": "0.0.1-security"
   }
 }
