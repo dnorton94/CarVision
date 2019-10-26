@@ -1,0 +1,19 @@
+{
+  "name": "carvision",
+  "version": "1.0.0",
+  "description": "![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/action-asphalt-automobile-303313.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnorton94/CarVision.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnorton94/CarVision/issues"
+  },
+  "homepage": "https://github.com/dnorton94/CarVision#readme"
+}
