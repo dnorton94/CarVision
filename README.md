@@ -1,5 +1,7 @@
 # CarVision
 
+[![CircleCI](https://circleci.com/gh/dnorton94/CarVision.svg?style=svg)](https://circleci.com/gh/dnorton94/CarVision)
+
 ![alt text](https://dominiconorton-images.s3-eu-west-1.amazonaws.com/action-asphalt-automobile-303313.jpg)
 
 ## Table of Contents
