@@ -1,9 +1,6 @@
 {
   "name": "carvision",
   "version": "1.0.0",
-  "devDependencies": {
-    "jshint": "^2.10.2"
-  },
   "description": "",
   "main": "hello.js",
   "scripts": {
@@ -20,6 +17,7 @@
   },
   "homepage": "https://github.com/dnorton94/CarVision#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jshint": "^2.10.2"
   }
 }
