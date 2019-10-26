@@ -16,3 +16,5 @@ CarVision is an open-source project developed by Dominic Norton, Ethan Sweet, Pr
 ## Author
 
 ## License 
+
+Copyright © 2019, Released under the MIT License.
